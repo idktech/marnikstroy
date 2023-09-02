@@ -1241,3 +1241,7 @@ a:focus {
 h4{
   color: #767676;
 }
+.email{
+  color: #F5BF23;
+  text-decoration: underline 2px;
+}
